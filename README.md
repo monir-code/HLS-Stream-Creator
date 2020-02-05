@@ -1,8 +1,11 @@
 HLS-Stream-Creator
 ==================
 
-Introduction
+
+
+What is this?
 -------------
+ ` HLS or HTTP Live Streaming is the adaptive bitrate streaming protocol which works by breaking the whole video into small .ts video chunks and generating a playlist file (.m3u8) from the short chunks. This project will help you start up for that. `
 
 HLS-Stream-Creator is a simple BASH Script designed to take a media file, segment it and create an M3U8 playlist for serving using HLS.
 There are numerous tools out there which are far better suited to the task, and offer many more options. This project only exists because I was asked to look
